@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "1514c6fe-9008-42db-a594-2a1fb749643f",
+		"name": "My Collection",
+		"description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "54206884",
+		"_collection_link": "https://miguelitoblandonmontes-251129.postman.co/workspace/miguelitoblandonmontes's-Worksp~0921ec88-301d-433a-8c64-a5c95e830526/collection/54206884-1514c6fe-9008-42db-a594-2a1fb749643f?action=share&source=collection_link&creator=54206884"
+	},
+	"item": [
+		{
+			"name": "APIs",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "pokemon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "apikey",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

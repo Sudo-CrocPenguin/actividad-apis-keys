@@ -1,0 +1,4 @@
+Las variables de entorno permiten almacenar información sensible 
+como API Keys sin exponerlas directamente en las peticiones. 
+Esto mejora la seguridad, facilita reutilización y evita errores 
+al cambiar entre entornos como desarrollo y producción.
